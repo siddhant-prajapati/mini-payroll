@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://mini-payroll-backend.onrender.com/",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
